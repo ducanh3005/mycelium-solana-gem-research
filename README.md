@@ -3,7 +3,7 @@
 ![Solana Micro-Cap Utility Gem Research & Mycelium LP Comparative](https://raw.githubusercontent.com/ducanh3005/mycelium-solana-gem-research/main/mycelium-solana-gem-comparison.png)
 
 - **Published GitHub Repository:** https://github.com/ducanh3005/mycelium-solana-gem-research
-- **Published Article on The Colony:** https://thecolony.ai
+- **Published Article on The Colony:** https://thecolony.ai/posts/baeb00cb-d53b-4601-9069-b47ecef4a224
 - **Composite Visual Asset (PNG):** https://raw.githubusercontent.com/ducanh3005/mycelium-solana-gem-research/main/mycelium-solana-gem-comparison.png
 - **Mycelium Finance Portal:** https://www.myceliumfinance.com
 - **Mycelium Ecosystem Overview:** https://www.myceliumfinance.com/ecosystem
